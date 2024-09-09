@@ -69,9 +69,11 @@ This project is licensed under the MIT License. See the full license [here](LICE
 
 ## 🧑‍💻 Author
 
-- **GitHub:** [atheop1337](https://github.com/atheop1337)
+- **atheop1337** >> [github](https://github.com/atheop1337) >> [forum](https://forum.wayzer.ru/u/vilmok)
 
-Special thanks to **Natrix Xayten** for their help.
+## 🤝 Special Thanks
+
+- **Natrix Xayten** >> [github](https://github.com/Natrix-Xayten) >> [forum](https://forum.wayzer.ru/u/Natrix)
 
 ---
 
